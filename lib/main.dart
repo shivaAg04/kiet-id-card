@@ -75,11 +75,11 @@ class KietIdCard extends StatelessWidget {
             ),
             SizedBox(height: 10.0),
             Text(
-              'FIRST YEAR',
+              'FIRS YEAR',
               style: TextStyle(
-                color: Colors.amberAccent[200],
+                color: Colors.amberAccent[900],
                 fontWeight: FontWeight.bold,
-                fontSize: 28.0,
+                fontSize: 19.0,
                 letterSpacing: 2.0,
               ),
             ),
